@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 
 from adapters.configurator.config import settings
-from adapters.web.api.v1.router_base import router_main
+from adapters.web.api.routers.v1.router_base import router_main
 
 
 def include_router(_app: FastAPI):
