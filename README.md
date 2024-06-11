@@ -1,6 +1,6 @@
 ## 🚀 Um Boilerplate de backend python para Alta Performance! 🚀
 
-Este boilerplate foi desenvolvido ao longos de varios anos, visando trazer performance, segurança, agilidade e qualidade nos projetos administrado por min, este boilerplate usa como padrão arquitetura hexagonal uma arquiterua de alta reusabilidade e baixa dependencia, assim mantendo a regra de negocio
+Este boilerplate foi desenvolvido com intuito de trazer performance, segurança, agilidade e qualidade nos projetos administrado por min, este boilerplate usa como padrão arquitetura hexagonal uma arquiterua de alta reusabilidade e baixa dependencia, assim mantendo a regra de negocio
 como o nucleo principal da aplicação
 
 O foco principal da arquitetura hexagonal é construir sistemas que favorecem reusabilidade de código, alta coesão, baixo acoplamento, independência de tecnologia e que são mais fáceis de serem testados, além de ser case de sucesso por varias empresas de tecnologia.
