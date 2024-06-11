@@ -43,6 +43,8 @@ O foco principal da arquitetura hexagonal é construir sistemas que favorecem re
 
 - Logger 📝
 
+- Makefile 📝
+
 - Pronto para Produção 📐
 
 
